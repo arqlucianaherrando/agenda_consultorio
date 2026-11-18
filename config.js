@@ -1,2 +1,2 @@
-// ID de cliente de Google (termina en .apps.googleusercontent.com). Pegalo entre las comillas.
-window.AP_GOOGLE_CLIENT_ID = '';
+// ID de cliente de Google
+window.AP_GOOGLE_CLIENT_ID = '1044707251213-t8uv2qve7cnsckrr03npk306pk1m5vpl.apps.googleusercontent.com';
